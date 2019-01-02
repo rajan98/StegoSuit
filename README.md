@@ -1,4 +1,4 @@
-# StegSuit
+# StegoSuit
 Used to do complete Steganography analysis of an image.
 
 StegoSuit is a tool for extracting secret messages hidden in the images. It is has 5 basic functions which will help the the user to analyse the image.

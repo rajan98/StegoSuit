@@ -6,4 +6,4 @@ You need to install these modules in python3 to get it running:
 2. pillow
 3. tkinter
 
-Using this tool you can perform ELA, String, Threshold, Edge and Metadata analysis of any image.
+Using this tool you can perform ELA (Error Level Analysis), String, Threshold, Edge and Metadata analysis of any image.
